@@ -1,0 +1,8 @@
+2025-04-13 15:17:43.547227 - Intrusion detected - intrusions\intrusion_20250413_151743.jpg
+2025-04-13 15:17:53.608382 - Intrusion detected - intrusions\intrusion_20250413_151753.jpg
+2025-04-13 15:18:03.370909 - Intrusion detected - intrusions\intrusion_20250413_151803.jpg
+2025-04-13 19:00:27.389153 - Intrusion detected - intrusions\intrusion_20250413_190027.jpg
+2025-04-13 19:00:45.962510 - Intrusion detected - intrusions\intrusion_20250413_190045.jpg
+2025-04-13 19:56:51.192542 - Intrusion detected - intrusions\intrusion_20250413_195651.jpg
+2025-04-13 19:57:27.821891 - Intrusion detected - intrusions\intrusion_20250413_195727.jpg
+2025-04-13 20:00:52.058047 - Intrusion detected - intrusions\intrusion_20250413_200052.jpg
