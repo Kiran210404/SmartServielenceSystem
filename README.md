@@ -1,6 +1,6 @@
 # 🛡️ SmartsurveillanceSystem
 
-Welcome to **SmartsurveillanceSystem** – an intelligent, AI-powered surveillance solution designed to make monitoring smarter, faster, and more proactive!  
+Welcome to **SmartsurveillanceSystem** – an intelligent, AI-powered surveillance solution designed to make monitoring smarter, faster, and more proactive!! 
 Empower your security setup with real-time insights, automated alerts, and an intuitive dashboard.
 
 ---
